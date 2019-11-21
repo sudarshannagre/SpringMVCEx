@@ -8,6 +8,6 @@
 <title>!!! WELCOME !!!</title>
 </head>
 <body>
-Greeting : ${msg}
+Greeting : "Welcome to Jenkins first Job !!!!!!"
 </body>
 </html>
